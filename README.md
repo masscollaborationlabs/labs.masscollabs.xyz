@@ -1,4 +1,4 @@
-# masscollabs.xyz
+# labs.masscollabs.xyz
 
 https://labs.masscollabs.xyz Main Page
 
