@@ -10,4 +10,4 @@
 
 ## Copyright which enforces Free Software Licenses and Copyleft philosophy
 
-We are keen to become a Free Software project entirely runs by its own members and in other words community driven project. So we need a strong Copyleft license such as AGPLv3+ which is a license for internet based software and then we can knit our community to stay strong together for a better hack experience.
+We are keen to become a Free Software project entirely runs by its own members and in other words community driven project. So we need a strong [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) license such as [AGPLv3+](https://www.gnu.org/licenses/agpl-3.0.en.html) which is a license for internet based software and then we can knit our community to stay strong together for a better hack experience.
