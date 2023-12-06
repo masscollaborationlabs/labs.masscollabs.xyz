@@ -1,9 +1,5 @@
 # Building a Free Community
 
-* **Planned**:
-  * Gamifying the tasks and who builds tasks in the community
-  * Enforcing copyright for free software to knit the community
-
 ## Gamifying the tasks management
 
 [On Hacking as told by Richard M. Stallman](https://www.stallman.org/articles/on-hacking.html) hacking is exploring the limits and playful cleverness. So gamifying the tasks management and using unordinary and heterodox methods as in told by many martial arts lecturer is highly critical. Thus we can be fast while serving to the public and our community members.
