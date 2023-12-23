@@ -23,3 +23,9 @@ This is a remote and volunteer role for a C Developer. The C Developer will be r
 * Experience with agile development methodologies is a plus
 * Experience contributing to Free Software software projects is a plus
 
+
+# Working Remotely
+
+We need contributors who work and contribute remotely.
+
+**happy hacking !**
