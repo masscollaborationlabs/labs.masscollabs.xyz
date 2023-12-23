@@ -1,6 +1,6 @@
 # Company Description
 
-We Masscollabs Services is leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructuresk
+We Masscollabs Services is leading to Software, Hardware and Science for the Internet Cyberspace with our own consciousness. We have our own roadmap and which is why we say we are a Free Software project. This is an open way to software and open infrastructures
 
 # Role Description
 
