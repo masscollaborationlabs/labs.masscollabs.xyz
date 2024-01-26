@@ -1,4 +1,4 @@
-# On our Go Course
+# Our Go Course
 
 We are training Go programming language by learning from various sources such as [BTK Akademi](https://www.btkakademi.gov.tr/portal/course/go-ile-programlamaya-giris-12760), The Golang source, and the internet.
 
