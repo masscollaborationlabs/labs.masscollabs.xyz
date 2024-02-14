@@ -2,7 +2,7 @@
 
 We started practicing C, Systems Programming and UNIX/Linux courses which is written by Kaan Aslan who is the president of C and Systems Programmer Association. Please see https://csystem.org for the association web site.
 
-![GNU/Linux + Masscollabs Services](opacity_GNULove400dpi.png)
+![GNU/Linux + Masscollabs Services](img/opacity_GNULove400dpi.png)
 
 Our forge addresses are :
 
