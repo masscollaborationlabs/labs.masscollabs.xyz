@@ -39,7 +39,7 @@ ssh debian
 
 There was another issue that we can not clone the repository via ssh while we connect to virtual machine/remote server via ssh.
 
-To solve this Forgejo clone/push issue I did :
+To solve this Forgejo clone/push issue [I did](https://forgejo.org/docs/latest/admin/installation-binary/) :
 
 ```
 adduser --system --shell /bin/bash --gecos 'Git Version Control' \
