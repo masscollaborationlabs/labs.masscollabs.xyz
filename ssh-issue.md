@@ -37,4 +37,20 @@ now this command/ssh connection works !
 ssh debian
 ```
 
-happy hacking !
+There was another issue that we can not clone the repository via ssh while we connect to virtual machine/remote server via ssh.
+
+To solve this Forgejo clone/push issue I did :
+
+```
+adduser --system --shell /bin/bash --gecos 'Git Version Control' \
+  --group --disabled-password --home /home/git  git
+```
+
+And then I moved forgejo source code into ```git``` user and changed the directory and file permissions for the ```git``` user.
+
+# Conclusion
+
+Now I can ssh into the remote server and clone and push the repositories like I did before with GitHub, GitLab, SourceHut(sr.ht), git.vern.cc, git.disroot.org and Codeberg...
+
+
+**happy hacking !**
