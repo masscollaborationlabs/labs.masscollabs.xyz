@@ -27,4 +27,4 @@ Feel free to send an email for your questions to mertgor at masscollabs dot xyz
 
 # License for Articles
 
-Articles are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/masscollaborationlabs/labs.masscollabs.xyz/blob/articles/LICENSE)
+Articles are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/masscollaborationlabs/labs.masscollabs.xyz/blob/articles/by-sa.markdown)
