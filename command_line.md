@@ -1,5 +1,7 @@
 # Help ISF for Command Line translation
 
+![Command Line](img/command_line.png)
+
 The introduction to the command line, a work to promote Free Software 
 around the world. A translation work.
 
